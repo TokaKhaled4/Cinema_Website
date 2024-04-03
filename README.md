@@ -29,6 +29,6 @@ This website serves as a platform for users to explore and book movie tickets on
 
 ## Getting Started
 
-To view the website, simply open the `https://tokakhaled4.github.io/Cinema_Website/` file in a web browser.
+To view the website, simply open `https://tokakhaled4.github.io/Cinema_Website/` in a web browser.
 
 ---
