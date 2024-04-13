@@ -1,32 +1,34 @@
-# Cinema Website
-## Welcome to the Cinema Website project! 
+# Candle Store Website
+## Welcome to the Candle Store Website project! 
 
-This is a front-end web development project aimed at creating a user-friendly and visually appealing cinema website.
-
-## Description
-
-This website serves as a platform for users to explore and book movie tickets online. It provides information about the latest movies, pricing, special events, and more. With its modern design and intuitive interface, users can easily navigate through the website to find the movies they want to watch and book tickets conveniently.
+This is a front-end web development project aims to provide an aesthetically pleasing and user-friendly interface for customers to explore and purchase candles online.
 
 ## Features
 
-- **Header Section**: Includes a navigation menu for easy access to different sections of the website.
-- **Home Section**: Introduces the cinema with a brief overview and call-to-action buttons.
-- **Welcome Section**: Highlights key features of the cinema, such as online ticket booking and a relaxing environment.
-- **Movies Section**: Showcases currently playing movies with images, genres, and additional information.
-- **Offer Section**: Presents various offerings of the cinema, including a wide selection of movies, cutting-edge technology, luxury comfort, and more.
-- **Choose Section**: Explains why users should choose this cinema, emphasizing its dedication to delivering unforgettable movie experiences.
-- **Statistics Section**: Displays statistics about the cinema, such as the number of movies released, tickets sold, years in operation, and special events hosted.
-- **Pricing Section**: Provides a pricing table for different ticket types along with their features and purchase buttons.
-- **Testimonial Section**: Features testimonials from satisfied customers, highlighting their positive experiences at the cinema.
-- **Coming Soon Section**: Teases upcoming movies with images, titles, genres, and icons for additional information sources.
-- **News Section**: Shares recent news about the cinema, including updates on movie releases, box office performances, and awards.
-- **Footer Section**: Includes social media icons for easy access to the cinema's social media profiles and a copyright notice.
+### **1) Header Section**:
+- The header section includes a logo, navigation menu, and icons for search, user account, and shopping cart.
+- The navigation menu contains links to different sections of the website such as candles, prices, sign-up, login, location, and contact us.
+- Upon hovering over the candles link, a dropdown menu appears displaying different categories of candles.
+- Icons for search, user account, and shopping cart are included in the header.
+### **2) Image Section**:
+- This section displays an image related to the candles store.
+### **3) Special Category Section**:
+- This section highlights special categories of candles along with a brief description.
+- It includes images of different candle products with their names and descriptions.
+- Quotes and discounts related to the candle products are also showcased.
+### **4) Products Section**:  
+- This section features featured products of the candles store.
+- It includes a list of featured product categories.
+- Each featured product is displayed with an image, product name, price, and rating.
+- Upon hovering over a product, social media icons appear for sharing.
 
 ## Technologies Used
 
 - HTML
 - CSS
-
+- HTML5
+- CSS3
+  
 ## Getting Started
 
 To view the website, simply open `https://tokakhaled4.github.io/Cinema_Website/` in a web browser.
